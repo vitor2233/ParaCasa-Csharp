@@ -8,7 +8,7 @@ Para casa do treinamento sobre C#.
 
 ### Setup
 
-> Instalação
+> Rodar projeto
 (Instalar .NET Core 3.1 SDK (v3.1.403)
 
 ```shell
